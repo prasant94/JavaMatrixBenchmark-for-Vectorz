@@ -1,3 +1,0 @@
-Current directory = /home/prasant/gsoc/jmatbench/.
-Classpath:
-build/jar/benchmark_app.jar:/home/prasant/gsoc/jmatbench/lib/colt/concurrent.jar:/home/prasant/gsoc/jmatbench/lib/colt/colt.jar

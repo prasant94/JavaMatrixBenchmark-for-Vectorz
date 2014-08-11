@@ -1,5 +1,0 @@
-Current directory = /home/prasant/gsoc/jmatbench/.
-Classpath:
-build/jar/benchmark_app.jar:/home/prasant/gsoc/jmatbench/lib/jblas/jblas-1.2.3.jar
-    Case failed Slave: op = Determinant reason NOT_SUPPORTED matrix size = 100 memory = 1000 mb
-    Case failed Slave: op = Solve m>n reason NOT_SUPPORTED matrix size = 100 memory = 1000 mb
