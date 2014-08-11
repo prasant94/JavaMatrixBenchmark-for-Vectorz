@@ -46,6 +46,7 @@ public class LibraryLocation implements Serializable {
     public static final LibraryLocation UJMP = new LibraryLocation("UJMP","ujmp","ujmp", true,false, 10);
     public static final LibraryLocation UJMP_NATIVE = new LibraryLocation("UJMP-N","ujmp","ujmp-native", true, true, 11);
     public static final LibraryLocation LA4J = new LibraryLocation("la4j","la4j","la4j", true,false,12);
+    public static final LibraryLocation VECTORZ = new LibraryLocation("Vectorz","vectorz","vectorz", true, false, 13);
 
     public String plotName;
     // directory that it loads its libraries from

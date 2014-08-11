@@ -36,6 +36,7 @@ public class FactoryLibraryDescriptions {
     public static List<LibraryDescription> createDefault() {
         List<LibraryDescription> list = new ArrayList<LibraryDescription>();
 
+        list.add(createVectorz());
         // list.add(createColt());
         // list.add(createCommonsMath());
         list.add(createEJML());
@@ -69,6 +70,18 @@ public class FactoryLibraryDescriptions {
         for( LibraryDescription l : list ) {
             System.out.println(l.location.getPlotName());
         }
+    }
+
+    public static LibraryDescription createVectorz() {
+        LibraryDescription ret = new LibraryDescription();
+
+        ret.configure = (Class)DoNothingSpecialConfigure.class;
+        ret.factoryMemory = (Class)VectorzMemoryFactory.class;
+        ret.factoryRuntime = (Class)VectorzAlgorithmFactory.class;
+        ret.location = LibraryLocation.VECTORZ;
+        ret.version = (Class)AllLibraryVersion.Vectorz.class;
+
+        return ret;
     }
 
     public static LibraryDescription createColt() {

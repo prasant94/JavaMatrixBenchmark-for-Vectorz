@@ -31,6 +31,19 @@ import org.ojalgo.OjAlgoUtils;
  */
 public class AllLibraryVersion {
 
+    public static class Vectorz implements LibraryVersion {
+
+        @Override
+        public String getVersionString() {
+            return "0.39.0";
+        }
+
+        @Override
+        public String getReleaseDate() {
+            return "";
+        }
+    }
+
     public static class Colt implements LibraryVersion {
 
         @Override
