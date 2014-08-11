@@ -1,0 +1,10 @@
+<jmbench.tools.memory.MemoryResults>
+  <nameLibrary>Vectorz</nameLibrary>
+  <displayName>C=A+B</displayName>
+  <results>
+    <long>26424935</long>
+    <long>24843879</long>
+    <long>26142311</long>
+  </results>
+  <numFailed>0</numFailed>
+</jmbench.tools.memory.MemoryResults>

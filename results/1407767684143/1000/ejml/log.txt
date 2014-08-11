@@ -1,0 +1,13 @@
+Current directory = /home/prasant/gsoc/jmatbench/.
+Classpath:
+build/jar/benchmark_app.jar
+
+Overhead = 28839116 bytes
+  get process ID failed.
+FAILED: operation inv |A| > 1
+  get process ID failed.
+FAILED: operation C=A*B
+  get process ID failed.
+FAILED: operation SVD
+  get process ID failed.
+FAILED: operation C=A+B

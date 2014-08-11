@@ -1,0 +1,8 @@
+<jmbench.tools.memory.MemoryResults>
+  <nameLibrary>Vectorz</nameLibrary>
+  <displayName>C=A*B^T</displayName>
+  <results>
+    <long>26695271</long>
+  </results>
+  <numFailed>1</numFailed>
+</jmbench.tools.memory.MemoryResults>

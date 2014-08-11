@@ -1,0 +1,10 @@
+<jmbench.tools.memory.MemoryResults>
+  <nameLibrary>Vectorz</nameLibrary>
+  <displayName>SVD</displayName>
+  <results>
+    <long>34371175</long>
+    <long>33375847</long>
+    <long>31897191</long>
+  </results>
+  <numFailed>0</numFailed>
+</jmbench.tools.memory.MemoryResults>

@@ -1,0 +1,14 @@
+Current directory = /home/prasant/gsoc/jmatbench/.
+Classpath:
+build/jar/benchmark_app.jar:/home/prasant/gsoc/jmatbench/lib/vectorz/vectorz-0.39.0.jar
+
+Overhead = 29333913 bytes
+  get process ID failed.
+  get process ID failed.
+FAILED: operation C=A*B^T
+  get process ID failed.
+FAILED: operation solve m>n
+  get process ID failed.
+FAILED: operation solve m=n
+  get process ID failed.
+FAILED: operation Eigen

@@ -1,0 +1,9 @@
+<jmbench.tools.memory.MemoryTest>
+  <randomSeed>234234</randomSeed>
+  <classFactory>jmbench.impl.memory.EjmlMemoryFactory</classFactory>
+  <classConfigure>jmbench.impl.configure.DoNothingSpecialConfigure</classConfigure>
+  <gen class="jmbench.tools.runtime.generator.SvdGenerator"/>
+  <nameOperation>svd</nameOperation>
+  <N>1</N>
+  <size>500</size>
+</jmbench.tools.memory.MemoryTest>

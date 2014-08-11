@@ -1,0 +1,21 @@
+Current directory = /home/prasant/gsoc/jmatbench/.
+Classpath:
+build/jar/benchmark_app.jar:/home/prasant/gsoc/jmatbench/lib/commons-math/commons-math3-3.2-javadoc.jar:/home/prasant/gsoc/jmatbench/lib/commons-math/commons-math3-3.2.jar
+
+Overhead = 28514304 bytes
+  get process ID failed.
+FAILED: operation inv |A| > 1
+  get process ID failed.
+FAILED: operation C=A*B
+  get process ID failed.
+FAILED: operation SVD
+  get process ID failed.
+FAILED: operation C=A+B
+  get process ID failed.
+FAILED: operation C=A*B^T
+  get process ID failed.
+FAILED: operation solve m>n
+  get process ID failed.
+FAILED: operation solve m=n
+  get process ID failed.
+FAILED: operation Eigen

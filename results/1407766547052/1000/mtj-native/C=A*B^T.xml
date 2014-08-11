@@ -1,0 +1,6 @@
+<jmbench.tools.memory.MemoryResults>
+  <nameLibrary>MTJ-N</nameLibrary>
+  <displayName>C=A*B^T</displayName>
+  <results/>
+  <numFailed>1</numFailed>
+</jmbench.tools.memory.MemoryResults>

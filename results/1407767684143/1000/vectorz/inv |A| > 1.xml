@@ -1,0 +1,8 @@
+<jmbench.tools.memory.MemoryResults>
+  <nameLibrary>Vectorz</nameLibrary>
+  <displayName>inv |A| &gt; 1</displayName>
+  <results>
+    <long>35607348</long>
+  </results>
+  <numFailed>1</numFailed>
+</jmbench.tools.memory.MemoryResults>
