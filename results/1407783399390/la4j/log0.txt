@@ -1,0 +1,7 @@
+Current directory = /home/prasant/gsoc/jmatbench/.
+Classpath:
+build/jar/benchmark_app.jar:/home/prasant/gsoc/jmatbench/lib/la4j/la4j-0.4.5.jar
+    Case was too slow: op = Invert b=inv(a) matrix size = 1000 memory = 2000 mb
+    Case was too slow: op = SVD matrix size = 2000 memory = 2000 mb
+    Case was too slow: op = Invert Symm b=inv(a) matrix size = 1000 memory = 2000 mb
+    Case failed: reason = FROZEN op = Eigen for Symm Matrices matrix size = 500 memory = 2000 mb duration = 2400219

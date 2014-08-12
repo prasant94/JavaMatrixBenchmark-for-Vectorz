@@ -1,0 +1,4 @@
+Current directory = /home/prasant/gsoc/jmatbench/.
+Classpath:
+build/jar/benchmark_app.jar:/home/prasant/gsoc/jmatbench/lib/mtj/mtj-1.0-snapshot.jar
+    Case failed Slave: op = Determinant reason NOT_SUPPORTED matrix size = 500 memory = 2000 mb

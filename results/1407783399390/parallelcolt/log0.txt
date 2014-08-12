@@ -1,0 +1,4 @@
+Current directory = /home/prasant/gsoc/jmatbench/.
+Classpath:
+build/jar/benchmark_app.jar:/home/prasant/gsoc/jmatbench/lib/parallelcolt/parallelcolt-0.9.4.jar:/home/prasant/gsoc/jmatbench/lib/parallelcolt/netlib-java.jar:/home/prasant/gsoc/jmatbench/lib/parallelcolt/optimization.jar:/home/prasant/gsoc/jmatbench/lib/parallelcolt/arpack-combo.jar:/home/prasant/gsoc/jmatbench/lib/parallelcolt/jplasma.jar:/home/prasant/gsoc/jmatbench/lib/parallelcolt/csparsej.jar:/home/prasant/gsoc/jmatbench/lib/parallelcolt/jtransforms.jar
+    Case failed Slave: op = Transpose Square: b=a^T reason NOT_SUPPORTED matrix size = 500 memory = 2000 mb

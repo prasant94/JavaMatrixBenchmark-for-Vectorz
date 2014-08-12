@@ -37,18 +37,18 @@ public class FactoryLibraryDescriptions {
         List<LibraryDescription> list = new ArrayList<LibraryDescription>();
 
         list.add(createVectorz());
-        // list.add(createColt());
-        // list.add(createCommonsMath());
+        list.add(createColt());
+        list.add(createCommonsMath());
         list.add(createEJML());
-        // list.add(createJAMA());
+        list.add(createJAMA());
         list.add(createJBlas());
-        // list.add(createLa4j());
-        // list.add(createMtj());
-        // list.add(createMtj_Native());
-        // list.add(createOjAlgo());
-        // list.add(createPColt());
+        list.add(createLa4j());
+        list.add(createMtj());
+        list.add(createMtj_Native());
+        list.add(createOjAlgo());
+        list.add(createPColt());
 //        list.add(createSejml());
-        // list.add(createUJMP());
+        list.add(createUJMP());
 //        list.add(createUJMP_Native()); // The last version posted online does not contain native binaries
 
         return list;

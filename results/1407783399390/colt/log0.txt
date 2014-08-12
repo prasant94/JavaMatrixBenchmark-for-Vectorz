@@ -1,0 +1,4 @@
+Current directory = /home/prasant/gsoc/jmatbench/.
+Classpath:
+build/jar/benchmark_app.jar:/home/prasant/gsoc/jmatbench/lib/colt/concurrent.jar:/home/prasant/gsoc/jmatbench/lib/colt/colt.jar
+    Case failed Slave: op = Transpose Square: b=a^T reason NOT_SUPPORTED matrix size = 500 memory = 2000 mb
